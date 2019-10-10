@@ -1,0 +1,5 @@
+2019-09-16 17:11:26.033  INFO 9356 --- [restartedMain] com.shawn.blog.BlogApplication           : Starting BlogApplication on B513-PC with PID 9356 (E:\java_work\MyBlog\blog\target\classes started by B513 in E:\java_work\MyBlog\blog)
+2019-09-16 17:11:26.040  INFO 9356 --- [restartedMain] com.shawn.blog.BlogApplication           : The following profiles are active: pro
+2019-09-16 17:11:29.149  WARN 9356 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-09-16 17:11:29.211  WARN 9356 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-09-16 17:11:29.370  INFO 9356 --- [restartedMain] com.shawn.blog.BlogApplication           : Started BlogApplication in 3.905 seconds (JVM running for 4.899)
