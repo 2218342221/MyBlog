@@ -11,6 +11,8 @@ public class BlogApplicationTests {
 
     @Test
     public void contextLoads() {
+        //测试
+        System.out.println("hello");
     }
 
 }
